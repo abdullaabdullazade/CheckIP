@@ -1,13 +1,3 @@
-1. **Kitabxanaların İdxalı:** `requests`, `colorama`, `time`, `threading` və `speedtest` kitabxanaları idxal edilir.
-2. **İnternet Bağlantısı və IP Məlumatlarının Yoxlanması:** Kod `https://ipleak.net/json/` URL-dən IP məlumatlarını götürmək üçün HTTP GET sorğusu göndərir.
-3. **Yükləmə və Yükləmə Sürətinin Test Edilməsi:** `speedtest` kitabxanası istifadə edilərək internet sürəti yoxlanılır.
-4. **Animasiyalı Yükləmə Ekranı:** İstifadəçiyə prosesin davam etdiyini göstərmək üçün animasiyalı yükləmə ekranı əlavə edilir.
-5. **Məlumatların Çap Edilməsi:** Əldə edilən məlumatlar rəngli formada ekranda göstərilir.
-
-İndi isə buna uyğun GitHub üçün ReadMe faylı hazırlayaq:
-
----
-
 # IP və İnternet Sürəti Yoxlama Skripti
 
 Bu Python skripti sizin IP məlumatlarınızı yoxlayır və internet yükləmə/yükləmə sürətinizi test edir. Skript işləyərkən animasiyalı yükləmə ekranı göstərir.
