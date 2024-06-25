@@ -21,7 +21,7 @@ Skripti işə salmaq üçün aşağıdakı addımları izləyin:
 1. **Kodun Yüklənməsi:** Bu repozitoriyanı klonlayın və ya kodu yükləyin.
 2. **Skripti İcra Edin:** Terminalda və ya komand konsolunda skripti işə salın:
     ```sh
-    python script_name.py
+    python check_internet.py
     ```
 
 ## Skriptin Əsas Hissələri
