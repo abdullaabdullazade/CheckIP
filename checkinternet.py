@@ -56,7 +56,7 @@ def results():
     finally:
         stop_event.set()
         thread.join()
-        # Clear the loading animation line
+   
         print("\r" + " " * 40, end="\r")
 
 results()
